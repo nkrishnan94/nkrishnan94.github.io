@@ -10,4 +10,4 @@ I am a first year PhD student studying the evolutionary dynamics of microbial bi
 </figure>
 
 [twitter: ](https://twitter.com/nkrishnan_):
-[github: ](https://github.com/nkrishnan94:
+[github: ](https://github.com/nkrishnan94):
