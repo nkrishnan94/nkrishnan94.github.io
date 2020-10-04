@@ -5,7 +5,7 @@ author: "Nikhil Krishnan"
 categories: general
 ---
 
-This is the first in what I hope will be a series of blogs. And to begin, I wanted to establish somewhat of a focus for these posts. At first glance, this task leaves me at a bit of loss, though. I'm firmly of the belief that doing science is only half (or less) of what will make me a scientist. If no one knows about my work or why its useful or important,  my efforts are rendered futile. So, this blog is my attempt at communicating my science at every stage of development in all of its ugly, messy, unpolished glory. 
+This is the first in what I hope will be a series of blogs. And to begin, I wanted to establish somewhat of a focus for these posts. At first glance, this task leaves me at a bit of loss, though. I'm firmly of the belief that <i>doing science</i> is only half (or even less?) . If no one knows about my work or why its useful or important,  my efforts are rendered futile. So, this blog is my attempt at communicating my science at every stage of development in all of its ugly, messy, unpolished glory. 
 
 Beyond this underlying goal, however, I realize there are near infinite ways to get to achieve this goal. I look at blogs of mentors and colleagues that I've read avidly for inspiration{[1][^2] and come to the conclusion that its best to begin with a commitment to simply get my thoughts out there, perhaps emphasizing frequency over quality in order to get in the groove of converting my disparate thoughts to a coherent, accessible, weekly discourse - to simply build the habit of communicating my scientific (and perhaps other) ideas.
 
