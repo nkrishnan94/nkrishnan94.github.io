@@ -5,7 +5,7 @@ author: "Nikhil Krishnan"
 categories: general
 ---
 
-This is the first in what I hope will be a series of blogs. And to begin, I wanted to establish somewhat of a focus for these posts. At first glance, this task leaves me at a bit of loss, though. I'm firmly of the belief that <i>doing</i> science is only half (or even less?) . If no one knows about my work or why its useful or important, could it ever actually be useful or important? So, this blog is my attempt at communicating my science s at every stage of development in all of its ugly, messy, unpolished glory. 
+This is the first in what I hope will be a series of blogs. And to begin, I wanted to establish somewhat of a focus for these posts. At first glance, this task leaves me at a bit of loss, though. I'm firmly of the belief that <i>doing</i> science is only half (or even less?) . If no one knows about my work or why it's useful or important, could it ever actually be useful or important? So, this blog is my attempt at communicating my science s at every stage of development in all of its ugly, messy, unpolished glory. 
 
 Beyond this underlying goal, however, I am not sure exactly how this will look. Examine blogs of mentors and colleagues that I've read avidly for inspiration[^1][^2], I have come to the conclusion that its best to begin with a commitment to simply get my thoughts out there, perhaps emphasizing frequency over quality in order to get in the groove of converting my disparate thoughts to a coherent, accessible, weekly discourse, to simply build the habit of communicating my scientific (and perhaps other) ideas.
 
@@ -26,7 +26,7 @@ Luckily for me many before have also pondered related questions, and it is at ab
 
 As I still planned to do clinical training afterward and had all ready jnvested four years and A LOT of money in my education, it was important that my future path was flexible both in time spent and financially. 
 
-After ~ 9 months of researching options, trying for some options that didn't work out, talking to mentors, giving up, crying, trying some more, lots of google, and writing many essays and personal statements, I found my way. The solution I settled on was to have my previous loan forgiven through the NIH loan repayment program and study for my PhD at University of Cambridge with [Dr. Diana Fusco’s group]() as well as co-mentored with Jake. Furthermore, I am fortunate to have the opportunity to be funded by the [Gates Cambridge scholarship]().
+After ~ 9 months of researching options, trying for some options that didn't work out, talking to mentors, giving up, crying, trying some more, lots of google, and writing many essays and personal statements, I found my way. The solution I settled on was to have my previous loan forgiven through the [NIH loan repayment program](https://www.lrp.nih.gov/) and study for my PhD at University of Cambridge with [Dr. Diana Fusco’s group](https://dianafusco.wixsite.com/fuscolab) as well as co-mentored with Jake. Furthermore, I am fortunate to have the opportunity to be funded by the [Gates Cambridge scholarship](https://www.gatescambridge.org/).
 
 I sit now at the very beginning of an exciting period of what I think will be immense personal and academic growth. My research will finally  take center stage in my life as opposed to a reprieve from pharmaceutical flashcards after sundown. Thought it might sound mundane or oddd, it is with great pride that science will become my full time job and I have been increasingly reflecting on what this means.
 
@@ -36,7 +36,7 @@ Reflecting during the period between medical school and my PhD, as I mentioned b
 
 [Text taken from here](http://sherlock-holm.es/stories/html/card.html)
 
-[^1]: Jake Scott's blog
-[^2]: Artem Kaznatcheev's blog
-[^3]: 'Megaplate' paper 
+[^1]: [Jake Scott's blog](http://cancerconnector.blogspot.com/)
+[^2]: [Artem Kaznatcheev's blog](https://egtheory.wordpress.com/author/kaznatcheev/)
+[^3]: [Spatiotemporal microbial evolution on antibiotic landscapes](https://science.sciencemag.org/content/353/6304/1147)
 
