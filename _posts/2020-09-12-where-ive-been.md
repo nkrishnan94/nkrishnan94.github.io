@@ -32,9 +32,6 @@ I sit now at the very beginning of an exciting period of what I think will be im
 Reflecting during the period between medical school and my PhD, as I mentioned before, I have decided that developing my skills as a science communicator will be a crucial and inextricable part of my science training. This brings me to this blog. I plan to begin with more detailed posts on applying for and being awarded the two aforementioned scholarships that will be supporting me though my PhD. I then hope to develop my blog as a place to brainstorm and flesh out my ideas in various stages of development. The first few of such posts I hope will be a more detailed discussion of my MegaPlate simulations, population dynamics during spatial spreading, and ideas surrounding evolutionary dynamics biofilm which, for now, will possibly form the bulk of my PhD work. I am excited for both the journey ahead and the opportunity to share it through this blog. Thanks for reading
 
 
-
-[Text taken from here](http://sherlock-holm.es/stories/html/card.html)
-
 [^1]: [Jake Scott's blog](http://cancerconnector.blogspot.com/)
 [^2]: [Artem Kaznatcheev's blog](https://egtheory.wordpress.com/author/kaznatcheev/)
 [^3]: [Spatiotemporal microbial evolution on antibiotic landscapes](https://science.sciencemag.org/content/353/6304/1147)
