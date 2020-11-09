@@ -11,11 +11,8 @@ The NIH loan repeyment program, albeit for a narrow pool of medical post-graduat
 
 The program is for health professional doctorate degree holders who are now performing research at an American non profit institution. Prospective applicants can apply each year as long as they are eligible. At least anecdotally, this makes it so that the award is quite availble for applicants for the duration of their eligibility period. And, the sum payed off is generous - up to 50K a year for each year of the award.
 
-
-I hear the application is not unlike other NIH grants though this was my first time through such a process. In addition to a personal statement and letters of recomednation, a description of your training program is required, which in my case included a doscussion of my forthcoming PhD program and how it will support my research goals. I applied nearly a year ago and got the news this summer, which meant a whole for me. See my application here:
-
-https://github.com/nkrishnan94/nkrishnan94.github.io/blob/master/Krishnan_LRP_masterV3.pdf
+I hear the application is not unlike other NIH grants though this was my first time through such a process. In addition to a personal statement and letters of recomednation, a description of your training program is required, which in my case included a doscussion of my forthcoming PhD program and how it will support my research goals. I applied nearly a year ago and got the news this summer, which meant a whole for me. See my application [here](https://github.com/nkrishnan94/nkrishnan94.github.io/blob/master/Krishnan_LRP_masterV3.pdf).
 
 The application cycle is Sep - Nov. If youre eligible or think you might be eligible I highly encourage you to check it out and read more:
 
-https://www.lrp.nih.gov
+[https://www.lrp.nih.gov](https://www.lrp.nih.gov)
