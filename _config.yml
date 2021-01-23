@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Nikhil Krishnan"
 email: 'npk28@cam.ac.uk'
-description: "Infectious Diseases x Population Genetics x Statistical Physics"
+description: "Infectious Diseases x Population Genetics x Statistical Physics                   I am a first year PhD student at the University of Cambridge, Department of Physics studying the population genetics of spatial expansions and how its interaction with cooperation, mechnical forces, and electrochemical signaling are modulated by evolution "
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nkrishnan94.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'nkrishnan_'
@@ -98,5 +98,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  #- { url: '/about', text: 'About' }
   - { url: '/publications', text: 'Publications' }
